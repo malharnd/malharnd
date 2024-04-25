@@ -37,11 +37,8 @@ What drives me:
 </p>
 
 
-#### If you don't I'm probably here <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="50">
-<div>
-  <h4 style="display: inline;">If you don't I'm probably here</h4>
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="50" style="display: inline-block; vertical-align: middle;">
-</div>
+#### If you don't I'm probably here <img align = "justified" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="40">
+
 <div style="margin-top: 15px;"></div>
 
 <p align="left">
@@ -49,11 +46,7 @@ What drives me:
 <a href="https://www.naukri.com/code360/profile/008dbfc1-ccec-445b-b0f2-58e9dc0d71d0"><img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
-<div>
-  <h5 style="display: inline;">Outside of work, you'll find me</h5>
-  <img src="https://media.tenor.com/415n58OZ9CYAAAAM/cat-reads-reading.gif" width="50" style="display: inline-block; vertical-align: middle;">
-</div>
+#### Outside of work, you'll find me <img align = "justified" src="https://media3.giphy.com/media/TfQgoY87GNQB2Ea2jU/200w.gif?cid=6c09b9524x54d993e4wl2409xz467g8q82wojaschg6jaxsk&ep=v1_gifs_search&rid=200w.gif&ct=g" width="70">
 
 - 🏃 Out for a run.
 - ⛰️ Exploring the mountains.
