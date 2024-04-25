@@ -37,6 +37,7 @@ What drives me:
 </p>
 
 
+#### If you don't I'm probably here <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="50">
 <div>
   <h4 style="display: inline;">If you don't I'm probably here</h4>
   <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="50" style="display: inline-block; vertical-align: middle;">
@@ -80,7 +81,7 @@ What drives me:
 [![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Microsoft Office Tools](https://img.shields.io/badge/Microsoft_Office_Tools-778899?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019)
 
+--- 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" style="display: inline-block; vertical-align: middle;"> <em><b>I love connecting with different people</b> so if you want to say <b>hi!</b> :)</em>
 
----
