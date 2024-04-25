@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 🎓 A Recent grad with a Bachelor's in Computer Science from Maharashtra Institute of Technology, IN.
 
 What drives me:
-- 🤖💬 Currecntly exploring Language Models (LLMs) and their boundless potential.
-- 🔍 Intested in AI and ML, practiced through diverse projects and research initiatives.
-- 🔒 Intrigued by the intersection of technology and ethics, particularly interested in the ethical implications of AI.
+- 🤖💬 Currently exploring Language Models (LLMs) and their boundless potential.
+- 🔍 Interested in AI and ML, practised through diverse projects and research initiatives.
+- 🔒 Working towards the ethical implications of AI.
 - 🌟 Contributing to a diverse range of projects and eager to learn.
 - 🚀 On the lookout for opportunities to expand my skills.
 
