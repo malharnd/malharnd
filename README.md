@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Malhar!
+<img align="right" alt="GIF" height="200px" src="https://media0.giphy.com/media/XiQ4DDJju72cQ16dbt/giphy.webp?cid=ecf05e47fkfo4rpkkuzha8dwzajbucuixjfxb1ld7r4huu8h&ep=v1_gifs_search&rid=giphy.webp&ct=s" />
 
 <!--
 **malharnd/malharnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,6 @@ Here are some ideas to get you started:
 -->
 
 🎓 A Recent grad with a Bachelor's in Computer Science from Maharashtra Institute of Technology, IN.
-<img style="float: right; margin-left: 30px;" alt="GIF" height="200px" src="https://media0.giphy.com/media/XiQ4DDJju72cQ16dbt/giphy.webp?cid=ecf05e47fkfo4rpkkuzha8dwzajbucuixjfxb1ld7r4huu8h&ep=v1_gifs_search&rid=giphy.webp&ct=s" />
 
 What drives me:
 - 🤖💬 Currecntly exploring Language Models (LLMs) and their boundless potential.
@@ -27,7 +27,7 @@ What drives me:
 
 ---
 
-##### You will find me here:
+#### You will find me here:
 <div style="margin-top: 15px;"></div>
 <p align="left">
 <a href="mailto:malhar.dhawle@gmail.com?subject=Hello%20Malhar"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -38,7 +38,7 @@ What drives me:
 
 
 <div>
-  <h5 style="display: inline;">If you don't I'm probably here</h5>
+  <h4 style="display: inline;">If you don't I'm probably here</h4>
   <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="50" style="display: inline-block; vertical-align: middle;">
 </div>
 <div style="margin-top: 15px;"></div>
