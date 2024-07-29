@@ -51,7 +51,7 @@ What drives me:
 - 🏃 Out for a run.
 - ⛰️ Exploring the mountains.
 - 📚 Lost in the pages of a good book.
-- Currently Reading: Thinking, Fast and Slow" by Daniel Kahneman
+- Currently Reading: "Thinking, Fast and Slow" by Daniel Kahneman
 
 ---
 
