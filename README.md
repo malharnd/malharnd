@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 A Recent grad with a Bachelor's in Computer Science from Maharashtra Institute of Technology, IN.
+🎓 Currently pursuing a Master's in Data Science and Analytics at the University of Calgary. I have a background in Computer Science and Engineering, with a keen interest in AI and ML.
 
 What drives me:
 - 🤖💬 Currently exploring Language Models (LLMs) and their boundless potential.
